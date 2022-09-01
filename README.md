@@ -44,7 +44,7 @@ src
  ┣ reportWebVitals.js  
  ┗ setupTests.js
 # ⚙️Stack
-REACT /REDUX-TOOLKIT /REDUX-PERSIST /REST-API
+REACT / REDUX-TOOLKIT / REDUX-PERSIST / REST-API
 # 🔎Detail
 1. 메인 페이지 구성
 - useEffect()를 활용하여 처음 페이지가 렌더링 될 때 가장 인기있는 비디오 목록 리스트를 가져옵니다.
