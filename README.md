@@ -59,8 +59,10 @@ REACT /REDUX-TOOLKIT /REDUX-PERSIST /REST-API
 # 🚀Result
 Youtube Api(video, channel)를 활용하여 가장 인기 있는 동영상의 썸네일, 채널, 제목 등을 표시
 ![project1](public/images/main.png)
+
 입력된  키워드를  통해 Youtube API를  사용하여  목록에  있는  동영상을  키워드에  알맞는  동영상으로  변경
 ![project1](public/images/list.png)
+
 선택된  비디오에  관련된  비디오  플레이어, 상세  설명, 채널  리스트  등  비디오를  클릭시 상세 페이지로 이동
 ![project1](public/images/detail.png)
 
