@@ -48,7 +48,7 @@ REACT / REDUX-TOOLKIT / REDUX-PERSIST / REST-API
 # 🔎Detail
 1. 메인 페이지 구성
 - useEffect()를 활용하여 처음 페이지가 렌더링 될 때 가장 인기있는 비디오 목록 리스트를 가져옵니다.
-- useState()를 활용하여 Youtube Api로 부터 받아온 데이터를 저장하고 해당 데이터를 video_list, video_item 컴포넌트로 전달합니다.
+- useState()를 활용하여 Youtube Api로 부터 받아온 데이터를 저장하고 해당 데이터를 videoList, videoItem 컴포넌트로 전달합니다.
 2. 검색 기능 구성
 - 검색 창(input)에 원하는 키워드를 입력한 후 검색을 누르면 App 컴포넌트에 있는 state가 변경되어 다시 비디오 목록을 렌더링 합니다.
 3. 비디오 상세 페이지 구성
